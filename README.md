@@ -1,2 +1,2 @@
-# semie-s-kitchen
+# semie's kitchen
 website clone coding
